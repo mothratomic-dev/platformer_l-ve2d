@@ -1,10 +1,12 @@
 ## Platformer
 -- --------------------------------------
  LÖVE 2D Lua
+ 
  mothratomic dev
 -- --------------------------------------
 
- a small platformer prototype 
+ a small platformer prototype
+ 
  this project is an experiment focused on simple movement, jumping and game feel.
 
 ## Features
