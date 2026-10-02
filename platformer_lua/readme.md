@@ -1,6 +1,5 @@
-## Platformer
--- --------------------------------------
- LÖVE 2D Lua
+## platformer
+ LÖVE 2D lua
  
  mothratomic dev
 -- --------------------------------------
@@ -9,15 +8,14 @@
  
  this project is an experiment focused on simple movement, jumping and game feel.
 
-## Features
--- --------------------------------------
+## features
 
-- Horizontal movement
-- Jump and double jump
-- Crouch 
-- Gravity and ground collision
-- Speed boost while jumping
-- Landing squash effect
-- Screen shake
-- Sound effects
+ -horizontal movement
+ -jump and double jump
+ -crouch 
+ -gravity and ground collision
+ -speed boost while jumping
+ -landing squash effect
+ -screen shake
+ -sound effects
 -- --------------------------------------
