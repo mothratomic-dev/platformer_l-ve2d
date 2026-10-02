@@ -10,12 +10,12 @@
 
 ## features
 
- -horizontal movement
- -jump and double jump
- -crouch 
- -gravity and ground collision
- -speed boost while jumping
- -landing squash effect
- -screen shake
- -sound effects
+ - horizontal movement
+ - jump and double jump
+ - crouch 
+ - gravity and ground collision
+ - speed boost while jumping
+ - landing squash effect
+ - screen shake
+ - sound effects
 -- --------------------------------------
